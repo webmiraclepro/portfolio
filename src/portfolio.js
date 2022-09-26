@@ -441,7 +441,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      // profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/codelimit",
     },
     {
       siteName: "Codeforces",

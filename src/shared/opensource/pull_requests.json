@@ -96,12 +96,12 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODkzNjM0",
       "title": "Setting up complete workflow for project",
-      "url": "https://github.com/ashutosh1919/portfolio/pull/4",
+      "url": "https://github.com/webmiraclepro/portfolio/pull/4",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
+        "url": "https://github.com/webmiraclepro",
+        "login": "webmiraclepro"
       },
       "createdAt": "2020-04-23T12:48:04Z",
       "number": 4,
@@ -110,23 +110,23 @@
       "deletions": 47,
       "baseRepository": {
         "name": "portfolio",
-        "url": "https://github.com/ashutosh1919/portfolio",
+        "url": "https://github.com/webmiraclepro/portfolio",
         "owner": {
           "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
+          "login": "webmiraclepro",
+          "url": "https://github.com/webmiraclepro"
         }
       }
     },
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA3ODgxNTk0",
       "title": "Test PR to setup workflow",
-      "url": "https://github.com/ashutosh1919/portfolio/pull/3",
+      "url": "https://github.com/webmiraclepro/portfolio/pull/3",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
+        "url": "https://github.com/webmiraclepro",
+        "login": "webmiraclepro"
       },
       "createdAt": "2020-04-23T12:24:42Z",
       "number": 3,
@@ -135,11 +135,11 @@
       "deletions": 0,
       "baseRepository": {
         "name": "portfolio",
-        "url": "https://github.com/ashutosh1919/portfolio",
+        "url": "https://github.com/webmiraclepro/portfolio",
         "owner": {
           "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
+          "login": "webmiraclepro",
+          "url": "https://github.com/webmiraclepro"
         }
       }
     },
@@ -2107,12 +2107,12 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0MzAxMzk5NTg5",
       "title": "Comments",
-      "url": "https://github.com/ashutosh1919/mentornet/pull/1",
+      "url": "https://github.com/webmiraclepro/mentornet/pull/1",
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
+        "url": "https://github.com/webmiraclepro",
+        "login": "webmiraclepro"
       },
       "createdAt": "2019-07-26T05:23:10Z",
       "number": 1,
@@ -2121,11 +2121,11 @@
       "deletions": 0,
       "baseRepository": {
         "name": "mentornet",
-        "url": "https://github.com/ashutosh1919/mentornet",
+        "url": "https://github.com/webmiraclepro/mentornet",
         "owner": {
           "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-          "login": "ashutosh1919",
-          "url": "https://github.com/ashutosh1919"
+          "login": "webmiraclepro",
+          "url": "https://github.com/webmiraclepro"
         }
       }
     },
@@ -2266,8 +2266,8 @@
       "state": "MERGED",
       "mergedBy": {
         "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-        "url": "https://github.com/ashutosh1919",
-        "login": "ashutosh1919"
+        "url": "https://github.com/webmiraclepro",
+        "login": "webmiraclepro"
       },
       "createdAt": "2019-06-15T05:19:37Z",
       "number": 2,
